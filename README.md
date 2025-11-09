@@ -1,10 +1,12 @@
 <h1>
 APARAT HACK
 </h1>
+
 <p>
+
 -  A tool to crack aparat accounts
 -  Password List
--  Any misuse of this program is the responsibility of the person themselves.
+
 </p>
 
 ## Usage
@@ -19,3 +21,5 @@ APARAT HACK
 
 ## Screenshot
 ![Screenshot](https://github.com/Bl4ck-H4ck3r/AparatHack/blob/main/screen1.jpg)
+
+### Any misuse of this program is the responsibility of the person themselves.
