@@ -18,4 +18,4 @@ APARAT HACK
 ```
 
 ## Screenshot
-![Screenshot](https://github.com/Bl4ck-H4ck3r/AparatHack/blob/main/screen1.png)
+![Screenshot](https://github.com/Bl4ck-H4ck3r/AparatHack/blob/main/screen1.jpg)
